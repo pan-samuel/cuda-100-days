@@ -7,4 +7,4 @@ A 100-day journey exploring GPU programming, optimization techniques, and projec
 | Day | What I Did | Code Link |
 |-----|------------|-----------|
 | 1 | Warptiling + vectorized bfloat16 matmul | [Day 1 Code](https://github.com/sampan26/cuda_gemm/blob/main/h100/matmul.cu) |
-| 2 | WGMAA instruction: ~40% cuBLAS | [Day 1 Code](https://github.com/sampan26/cuda_gemm/blob/main/h100/matmul.cu) |
+| 2 | WGMAA instruction: ~40% cuBLAS | [Day 2 Code](https://github.com/sampan26/cuda_gemm/blob/main/h100/matmul.cu) |
